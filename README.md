@@ -21,6 +21,9 @@ If it doesn't make sure to upload these two files so that you do not run into an
 ### Further instructions
 The main cell shows the code for the processing of the data to tweets taking into account the fields and the necessary information. Then, we make a comparison of 5 processed and unprocessed tweets to check the correctness of the results.
 
+
+
+
 ## PART 2: Indexing & Evaluation
 
 ### Before executing
@@ -33,5 +36,8 @@ If it doesn't make sure to upload these two files so that you do not run into an
 
 ### Further instructions
 The program uses the generated output from the previous part, part 1. In this part we create an index for every term in the set of tweets and we also stored their tf and idf. 
+
+
+
 
 ## PART 3: Ranking
