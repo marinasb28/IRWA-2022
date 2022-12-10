@@ -37,4 +37,4 @@ The program uses the generated output from the previous part, part 1. In this pa
 
 ## PART 3: Ranking
 
-The same steps as in the earlier sections must be followed, and the documents must be in the same folder as the script. Once all the data has been uploaded, it is just necessary to run the code cell by cell. Once the inverted index has been generated, the various ranking functions are run, and the proposed query rankings are posted.
+The same steps as in the earlier sections must be followed, and the documents must be in the same folder as the script. Once all the data has been uploaded, it is just necessary to run the code cell by cell.
